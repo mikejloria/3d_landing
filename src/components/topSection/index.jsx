@@ -64,8 +64,12 @@ export function TopSection() {
         <TopSectionContainer>
             <Logo>Save our Planet</Logo>
             <Slogan>Make changes to live sustainably and take care of our home </Slogan>
-            <Paragraph></Paragraph>
-            <DonateButton>Donate</DonateButton>
+            <Paragraph>
+                Restore, protect, and enhance the environment, to 
+                ensure public health, environmental quality and 
+                economic vitality.
+            </Paragraph>
+            <DonateButton>Donate Now</DonateButton>
         </TopSectionContainer>
     );
 }
